@@ -2,7 +2,8 @@
 
 Everyone gets 20 mins with me to chat about life and code and cats and so forth.
 
-Please let me know when you're available by using the [GitHub Flow](https://guides.github.com/introduction/flow/) :)
+Please let me know when you're available by using the GitHub Flow.
+I've just added the [official guide on GitHub Flow](https://guides.github.com/introduction/flow/) to our [Airtable](https://airtable.com/shr16yN6G7ED1AKxj) as required reading, but for now you can follow the steps below:
 
 0. Clone this repo
 
