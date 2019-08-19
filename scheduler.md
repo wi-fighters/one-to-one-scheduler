@@ -8,17 +8,28 @@ Please do not add any new time slots.
 
 ## Mon 19 Aug
 
+<<<<<<< HEAD
 13:00 - Simon
 13:30 -
-14:00 - Jaime
-14:30 - 
+=======
+13:00 - Nicolas
+13:30 - Francisco
+14:00 - 
+14:30 - Bernd
 
 ## Tues 20 Aug
 
+<<<<<<< HEAD
 13:00 - nicolas
-13:30 - Juan
+13:30 - 
 14:00 - 
 14:30 - 
+=======
+13:00 - Juan
+13:30 - Simon
+14:00 - Federico
+14:30 - Nadia
+>>>>>>> 7b0b1e72c1a085b1b3748cbc77709a49defbee5a
 15:00 - 
 15:30 - 
 
