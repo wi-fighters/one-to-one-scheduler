@@ -8,7 +8,7 @@ Please do not add any new time slots.
 
 ## Mon 19 Aug
 
-13:00 - Simon
+13:00 - 
 13:30 - 
 14:00 - Jaime
 14:30 - 
@@ -16,7 +16,7 @@ Please do not add any new time slots.
 ## Tues 20 Aug
 
 13:00 - nicolas
-13:30 - 
+13:30 - Simon
 14:00 - Federico
 14:30 - Nadia
 15:00 - 
