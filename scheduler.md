@@ -25,7 +25,7 @@ Please do not add any new time slots.
 
 ## Wed 21 Aug
 
-13:00 - 
+13:00 - Jenna test
 13:30 - 
 14:00 - Manuel H
 14:30 - Natalia
