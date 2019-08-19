@@ -19,16 +19,17 @@ Please do not add any new time slots.
 13:30 - Simon
 14:00 - Federico
 14:30 - Nadia
-15:00 - Marlon
-15:30 - 
+15:00 - Val
+15:30 - Dana
+
 
 ## Wed 21 Aug
 
 13:00 - 
 13:30 - 
-14:00 - 
+14:00 - Manuel H
 14:30 - 
-15:00 - 
+15:00 - Marlon
 15:30 - 
 
 ## Thu 22 Aug
