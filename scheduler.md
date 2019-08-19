@@ -19,14 +19,12 @@ Please do not add any new time slots.
 13:30 - Simon
 14:00 - Federico
 14:30 - Nadia
-15:00 - 
-15:30 - Hatem
 15:00 - Val
-15:30 - Dana
+15:30 - Hatem
 
 ## Wed 21 Aug
 
-13:00 - 
+13:00 - Dana
 13:30 - 
 14:00 - Manuel H
 14:30 - 
