@@ -15,7 +15,7 @@ Please do not add any new time slots.
 
 ## Tues 20 Aug
 
-13:00 - 
+13:00 - nicolas
 13:30 - 
 14:00 - 
 14:30 - 
