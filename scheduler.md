@@ -34,6 +34,6 @@ Please do not add any new time slots.
 
 ## Thu 22 Aug
 
-10:45 - 
+10:45 - Adrienn
 11:15 - 
 11:45 - 
