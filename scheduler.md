@@ -17,11 +17,10 @@ Please do not add any new time slots.
 
 13:00 - Juan
 13:30 - Simon
-14:00 - 
+14:00 - Federico
 14:30 - Nadia
-15:00 - Federico
 15:00 - Val
-15:30 - 
+15:30 - Dana
 
 ## Wed 21 Aug
 
