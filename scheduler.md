@@ -20,7 +20,7 @@ Please do not add any new time slots.
 14:00 - Federico
 14:30 - Nadia
 15:00 - 
-15:30 - 
+15:30 - Hatem
 
 ## Wed 21 Aug
 
