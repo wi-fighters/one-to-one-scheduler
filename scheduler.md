@@ -8,7 +8,7 @@ Please do not add any new time slots.
 
 ## Mon 19 Aug
 
-13:00 - 
+13:00 - Simon
 13:30 - 
 14:00 - Jaime
 14:30 - 
