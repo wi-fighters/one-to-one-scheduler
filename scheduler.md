@@ -20,6 +20,7 @@ Please do not add any new time slots.
 14:00 - 
 14:30 - Nadia
 15:00 - Federico
+15:00 - Val
 15:30 - 
 
 ## Wed 21 Aug
