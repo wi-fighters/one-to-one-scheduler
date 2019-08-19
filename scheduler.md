@@ -17,8 +17,8 @@ Please do not add any new time slots.
 
 13:00 - nicolas
 13:30 - 
-14:00 - 
-14:30 - 
+14:00 - Federico
+14:30 - Nadia
 15:00 - 
 15:30 - 
 
