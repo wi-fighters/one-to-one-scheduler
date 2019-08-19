@@ -18,7 +18,7 @@ Please do not add any new time slots.
 13:00 - Juan
 13:30 - Simon
 14:00 - Federico
-14:30 - Nadia
+14:30 - 
 15:00 - Val
 15:30 - Hatem
 
@@ -34,6 +34,6 @@ Please do not add any new time slots.
 
 ## Thu 22 Aug
 
-10:45 - 
+10:45 - Nadia
 11:15 - 
 11:45 - 
