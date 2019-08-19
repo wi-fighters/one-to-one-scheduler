@@ -8,14 +8,14 @@ Please do not add any new time slots.
 
 ## Mon 19 Aug
 
-13:00 - 
-13:30 - Dana
+13:00 - Nicolas
+13:30 - Francisco
 14:00 - Jaime
-14:30 -  Juan
+14:30 - Bernd
 
 ## Tues 20 Aug
 
-13:00 - nicolas
+13:00 - Juan
 13:30 - Simon
 14:00 - Federico
 14:30 - Nadia
