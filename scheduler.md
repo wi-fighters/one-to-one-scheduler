@@ -18,14 +18,14 @@ Please do not add any new time slots.
 13:00 - Juan
 13:30 - Simon
 14:00 - Federico
-14:30 - Nadia
+14:30 - 
 15:00 - Val
 15:30 - Hatem
 
 
 ## Wed 21 Aug
 
-13:00 - 
+13:00 - Jenna test
 13:30 - 
 14:00 - Manuel H
 14:30 - Natalia
@@ -36,4 +36,4 @@ Please do not add any new time slots.
 
 10:45 - Adrienn
 11:15 - Dana
-11:45 - 
+11:45 - Nadia 
