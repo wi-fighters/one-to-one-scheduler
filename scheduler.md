@@ -22,7 +22,7 @@ Please do not add any new time slots.
 15:00 - 
 15:30 - Hatem
 15:00 - Val
-15:30 - 
+15:30 - Dana
 
 ## Wed 21 Aug
 
