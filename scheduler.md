@@ -28,7 +28,7 @@ Please do not add any new time slots.
 13:00 - 
 13:30 - 
 14:00 - Manuel H
-14:30 - 
+14:30 - Natalia
 15:00 - Marlon
 15:30 - 
 
