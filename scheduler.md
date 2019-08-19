@@ -25,15 +25,15 @@ Please do not add any new time slots.
 
 ## Wed 21 Aug
 
-13:00 - Dana
+13:00 - 
 13:30 - 
 14:00 - Manuel H
-14:30 - 
+14:30 - Natalia
 15:00 - Marlon
 15:30 - 
 
 ## Thu 22 Aug
 
-10:45 - Nadia
-11:15 - 
-11:45 - 
+10:45 - Adrienn
+11:15 - Dana
+11:45 - Nadia 
