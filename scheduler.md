@@ -9,7 +9,7 @@ Please do not add any new time slots.
 ## Mon 19 Aug
 
 13:00 - 
-13:30 - 
+13:30 - Dana
 14:00 - Jaime
 14:30 -  Juan
 
